@@ -2,7 +2,7 @@
 Final Project Electric Engineering BGU
 
 
-## Finding NC (non-commutative) LC (Positive Real Odd) function 
+Finding NC (non-commutative) LC (Positive Real Odd) function 
 
 There is a correlation between description of a single feedback loop and an electrical circuit which contains an inductor (L) and a capacitor. In feedback loop networks, the correlation is to electrical circuits which two components of the circuit are non-commutative.
 
