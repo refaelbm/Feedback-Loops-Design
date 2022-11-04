@@ -17,9 +17,8 @@ However, there is a lot of job ahead in finding NC-LC-matrix-valued functions be
 
 
 ### Presention:
-[Test] (https://github.com/refaelbm/Feedback-Loops-Design/blob/c63421b39e51b10a90add31303171a952210dea2/s-2022-217-13.ppt)
+(https://github.com/refaelbm/Feedback-Loops-Design/blob/c63421b39e51b10a90add31303171a952210dea2/s-2022-217-13.ppt)
 
 ### Report: 
-
-
+https://github.com/refaelbm/Feedback-Loops-Design/blob/ae8493fdfdc69735e59985c9f1c236ae4a6c26a6/s-2022-217-14.doc
 
