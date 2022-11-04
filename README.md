@@ -14,7 +14,7 @@ We generated and verified successfully all scalar second-degree LC functions und
 However, there is a lot of job ahead in finding NC-LC-matrix-valued functions because of limited resources of supporting NC LC functions programs and because it's hard mathematical aspect.
 
 ### Presention:
-[s-2022-217-13.ppt]
+["s-2022-217-13.ppt"]
 
 ### Report: 
 
