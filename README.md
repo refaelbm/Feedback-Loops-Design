@@ -1,17 +1,17 @@
 # Feedback-Loops-Non-Commutative-Function-Research
 Final Project Electric Engineering BGU
 
+Research of Non-Commutative(NC) Funtions of inductor(L) and a capacitor(C) electrical circuit
 
-Finding NC (non-commutative) LC (Positive Real Odd) function 
+Theoretical, in some architectures there is mathematical similarity between feedback loop network and an LC electrical circuit, in case the components of the circuit are non-commutative.
+We would like to find LC non-commutative funtions, to simplify complex feedback loop network. 
 
-There is a correlation between description of a single feedback loop and an electrical circuit which contains an inductor (L) and a capacitor. In feedback loop networks, the correlation is to electrical circuits which two components of the circuit are non-commutative.
-
-In order to achieve that goal, we implemented an encoding method for generation all LC functions on MATLAB under certain varying constraints. 
+We implemented an encoding method to generate all LC functions on MATLAB under certain varying constraints. 
 We used mathematical operations and function compositions in order to generate scalar LC functions. 
 Then, we tried to generate MIMO LC functions from those scalar LC functions.
 
 We generated and verified successfully all scalar second-degree LC functions under certain constraints of number of variables, operations and brackets. 
-However, there is a lot of job ahead in finding NC-LC-matrix-valued functions because of limited resources of supporting NC LC functions programs and because it's hard mathematical aspect.
+Future research is to find NC-LC-matrix-valued functions.
 
 ![image](https://user-images.githubusercontent.com/67152370/200014114-1b2cc8d8-ae09-4170-8a17-334eee686b9f.png)
 
