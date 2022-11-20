@@ -13,7 +13,8 @@ Then, we tried to generate MIMO LC functions from those scalar LC functions.
 We generated and verified successfully all scalar second-degree LC functions under certain constraints of number of variables, operations and brackets. 
 Future research is to find NC-LC-matrix-valued functions.
 
-![image](https://user-images.githubusercontent.com/67152370/200014114-1b2cc8d8-ae09-4170-8a17-334eee686b9f.png)
+![image](https://user-images.githubusercontent.com/67152370/200014114-1b2cc8d8-ae09-4170-8a17-334eee686b9f.png) ![image](https://user-images.githubusercontent.com/94614385/202918951-50989347-0963-40b2-a045-bd4256c33961.png)
+
 
 
 ### Presention:
